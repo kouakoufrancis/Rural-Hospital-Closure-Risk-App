@@ -10,3 +10,6 @@ plotly - data visualization
 matplotlib
 flask   - publication/viewing of graphics
 (See the repository of Bonnie McDaniel at https://github.com/ksu-hmi/Hospital-Dashboard)
+
+
+
