@@ -1,0 +1,6 @@
+Our data has  a lot of missing value. we use the code:
+# removing missing data
+df.dropna(how='any')
+the link can be found here
+https://pythonfund-fkouako1.notebooks.azure.com/j/notebooks/Rural%20hospitalcode.ipynb
+
