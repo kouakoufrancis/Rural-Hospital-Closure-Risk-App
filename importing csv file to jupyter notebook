@@ -1,4 +1,4 @@
-# importing the csv file in jupy
+# importing the csv file in jupyter
 import pandas as pd
 import pandas as pd
 df = pd.read_csv("Ruhosp.csv")
